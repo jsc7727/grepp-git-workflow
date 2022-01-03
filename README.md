@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Git Workflow 연습
 
 이 repository는 여러분들이 git을 연습하는 용도로 만들어져있습니다.
@@ -12,3 +13,10 @@
 I have just added new file!
   ```
 6. local repository의 모든 변경사항을 push한 후, pull request 기능을 이용해 제출하세요.
+=======
+# im-sprint-simple-git-workflow
+
+이 Repository를 fork한 후 pair와 함께 Simple Git Workflow를 연습하세요.
+
+이 스프린트는 제출할 필요는 없습니다.
+>>>>>>> ef68705350c8091488a1f4c7b5795d2dd38be418
